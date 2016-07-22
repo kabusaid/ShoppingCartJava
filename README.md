@@ -7,6 +7,7 @@ In this Project :
 - SOLID Principles
 - Code Style and Comments
 - GetHub Submission
+- Manual Test by Example Code
 
 # Item Interface 
 Item Interface for different products like: countable , bookable, downloadable, or products depend on weight.
