@@ -1,5 +1,4 @@
-# ShoppingCartJava
-Simple Shopping Cart in Java
+# Simple Shopping Cart in Java
 
 Simple Shopping Cart that can contain different product types and calculate the total price.
 
