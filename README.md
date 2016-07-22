@@ -8,21 +8,20 @@ In this Project :
 - Code Style and Comments
 - GetHub Submission
 
-# Item Interface
+Item Interface :
 Item Interface for different products like: countable , bookable, downloadable, or products depend on weight.
 
-# Product Abstract Class
+Product Abstract Class :
 Super Class Product have the same fields for all subclass. The common fields are : code, title, image, price.
 
-# Product Countable Class
+- Product Countable Class :
 Subclass of Product. Inherits common fields, and have new field quantity and iplements Item interface methods: price, details 
 
-# Product Bookable Class
+- Product Bookable Class :
 Subclass of Product. Inherits common fields, and have 3 new fields: date, time, hours and iplements Item interface methods: price, details 
 
 # Shopping Cart Class
 Shopping Cart Class tha can contain different products: Countable or Bookable.
-
 The Class methods :add or remove product, show content of the cart, and calculate the total price for all shopping cart content.
 
 # Manual Test Case
